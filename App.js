@@ -27,9 +27,8 @@ import {
 
 LogBox.ignoreAllLogs(true);
 
-const chatClient = StreamChat.getInstance("dhjs34vgd96z");
-const userToken =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoibmljayJ9.7NtUyClq7tlXfiRfzme76XpLvfCH0Q_uueuiXQjEP9M";
+const chatClient = StreamChat.getInstance("");
+const userToken = "";
 const user = {
   id: "nick",
 };
